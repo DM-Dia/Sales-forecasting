@@ -19,5 +19,5 @@ Key Features
 ✔ Visualizations of forecasts vs. actuals
 ✔ Interpretation of model strengths/weaknesses
 
-🛠️ Tools Used
+Tools Used
 Python (pandas, statsmodels, scikit-learn)
