@@ -1,4 +1,4 @@
-# DATA-ANALYTICS
+# RETAIL DEMAND AI
 
 Time Series Analysis and Forecasting Project
 Objective:
