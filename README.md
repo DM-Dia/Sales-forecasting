@@ -15,8 +15,11 @@ Holt-Winters Model (Exponential smoothing with trend/seasonality)
 Linear Regression Model (Causal forecasting with external factors)
 
 Key Features
+
 ✔ Detailed metric explanations (MAE, RMSE, MAPE)
+
 ✔ Visualizations of forecasts vs. actuals
+
 ✔ Interpretation of model strengths/weaknesses
 
 Tools Used
